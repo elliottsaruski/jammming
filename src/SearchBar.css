@@ -1,0 +1,17 @@
+.SearchBar {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+  }  
+
+.SearchBar input {
+    font-size: 2em;
+    text-align: center;
+    margin: 7.5px;
+}
+
+.SearchBar button {
+    font-size: 1.5em;
+    margin: 7.5px;
+}
